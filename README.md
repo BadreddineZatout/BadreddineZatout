@@ -4,7 +4,7 @@ I'm a software engineer graduated from ESI Algiers, currently living in Algiers.
 
 I'm passionate about Web development with Laravel, React.js and Vue.js, and maybe some Machine Learning :)
 
-I love learning so I'm always keeping an eye to anything interesting.
+I love learning so I'm always keeping an eye for anything interesting.
 
 You can find me on:
 
