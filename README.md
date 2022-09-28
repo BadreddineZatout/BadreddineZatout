@@ -8,8 +8,8 @@ I love learning so I'm always keeping an eye for anything interesting.
 
 You can find me on:
 
-- **[Email](hb_zatout@esi.dz)**
 - **Phone : +213 0657207206**
+- **[Email](hb_zatout@esi.dz)**
 - **[LinkedIn](https://www.linkedin.com/in/badreddine-zatout/)**
 - **[Twitter](https://twitter.com/B_Note_99)**
 
