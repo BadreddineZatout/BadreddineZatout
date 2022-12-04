@@ -21,4 +21,4 @@ You can find me on:
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadreddineZatout&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Badreddine Zatout's Most Used GitHub Languages" />
 </a>
 
-<>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadreddineZatout&repo=Netflix)](https://github.com/BadreddineZatout/Netflix)
+#[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadreddineZatout&repo=Netflix)](https://github.com/BadreddineZatout/Netflix)
