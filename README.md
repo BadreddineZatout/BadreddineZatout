@@ -22,5 +22,5 @@ You can find me on:
 </a>
 
 <!---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BadreddineZatout&repo=Netflix)](https://github.com/BadreddineZatout/Netflix)
+
 -->
