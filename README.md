@@ -22,6 +22,7 @@ Here are a few things I've picked up along my learning journey.
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![VueJs](https://img.shields.io/badge/VueJs-42b883?style=for-the-badge&logo=v&logoColor=white)
+![NodeJs](https://img.shields.io/badge/NodeJs-3c873a?style=for-the-badge&logo=node&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
