@@ -25,9 +25,6 @@ Here are a few things I've picked up along my learning journey.
 ![NodeJs](https://img.shields.io/badge/NodeJs-3c873a?style=for-the-badge&logo=Node.js&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=BadreddineZatout&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Badreddine Zatout's GitHub Stats" />
 </a>
