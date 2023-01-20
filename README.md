@@ -19,8 +19,8 @@ Here are a few things I've picked up along my learning journey.
 
 ![PHP](https://img.shields.io/badge/-PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Java script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Type script-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![VueJs](https://img.shields.io/badge/VueJs-42b883?style=for-the-badge&logo=v&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/NodeJs-3c873a?style=for-the-badge&logo=Node.js&logoColor=white)
