@@ -24,7 +24,7 @@ Here are a few things I've picked up along my learning journey.
 ![ReactJs](https://img.shields.io/badge/ReactJs-61DBFB?style=for-the-badge&logo=react&logoColor=white)
 ![VueJs](https://img.shields.io/badge/VueJs-42b883?style=for-the-badge&logo=v&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/NodeJs-3c873a?style=for-the-badge&logo=Node.js&logoColor=white)
-![NestJs](https://img.shields.io/badge/NestJs-3c873a?style=for-the-badge&logo=Nest.js&logoColor=white)
+![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
