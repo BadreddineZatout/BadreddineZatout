@@ -2,7 +2,7 @@
 
 I'm a software engineer graduated from ESI Algiers.
 
-I'm passionate about Web development with Laravel, Nest.js, React.js and Vue.js, and maybe some DevOps & Machine Learning :)
+I'm passionate about Web development with Laravel, Nest.js, React.js and Vue.js, and maybe some DevOps & Machine Learning
 
 I love learning so I'm always keeping an eye for anything interesting.
 
